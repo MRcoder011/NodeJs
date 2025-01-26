@@ -1,2 +1,2 @@
-# NodeJs
-Nodejs Journey
+# NodeJs 🌿 🛠️ ⚡ 
+Nodejs Journey!
